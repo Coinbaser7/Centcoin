@@ -1,0 +1,4 @@
+Centcoin
+========
+
+Coins For Cryptocurrency
